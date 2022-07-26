@@ -1,0 +1,90 @@
+[
+    {
+        "@id": ":completenessMetric",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+            {
+                "@id": "http://www.w3.org/ns/dqv#Metric"
+            }
+        ],
+        "http://www.w3.org/2004/02/skos/core#definition": [
+            {
+                "@language": "en",
+                "@value": "Likert scale value (ranging between -2 and +2) representing the completeness of the information item"
+            }
+        ],
+        "http://www.w3.org/ns/dqv#expectedDataType": [
+            {
+                "@id": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://www.w3.org/ns/dqv#inDimension": [
+            {
+                "@id": ":completeness"
+            }
+        ]
+    },
+    {
+        "@id": ":completeness",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+            {
+                "@id": "http://www.w3.org/ns/dqv#dimension"
+            }
+        ],
+        "http://www.w3.org/2004/02/skos/core#definition": [
+            {
+                "@language": "en",
+                "@value": "Completeness of the information"
+            }
+        ],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [
+            {
+                "@language": "en",
+                "@value": "Completeness"
+            }
+        ]
+    },
+    {
+        "@id": ":worker",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+            {
+                "@id": "https://schema.org/Person"
+            }
+        ]
+    },
+    {
+        "@id": ":iq_assessment",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+            {
+                "@id": "http://www.w3.org/ns/dqv#QualityMeasurement"
+            }
+        ],
+        "http://www.w3.org/ns/dqv#computedOn": [
+            {
+                "@id": ":target_item"
+            }
+        ],
+        "http://www.w3.org/ns/dqv#isMeasurementOf": [
+            {
+                "@id": ":completenessMetric"
+            }
+        ],
+        "http://www.w3.org/ns/dqv#value": [
+            {
+                "@value": 1
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasAttributedTo": [
+            {
+                "@id": ":worker"
+            }
+        ]
+    },
+    {
+        "@id": ":target_item",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+            {
+                "@id": "https://schema.org/DigitalDocument"
+            }
+        ]
+    }
+]

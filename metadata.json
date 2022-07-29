@@ -19,20 +19,28 @@
       "required": true
     }, {
       "name": "doc_overall-truthfulness_value",
-      "titles": "On Street",
+      "titles": "Overall Truthfulness",
       "dc:description": "Overall truthfulness",
+      "datatype": "integer"
+    },{
+      "name": "doc_correctness_value",
+      "titles": "Correctness",
+      "dc:description": "Correctness",
       "datatype": "integer"
     }],
     "primaryKey": "unit_id",
-    "aboutUrl": "#unit_id-{unit_id}",
+    "aboutUrl": "#unit_id-{unit_id}"
   }},
     {
-    "url": "http://example.org/IPM_worker_profile.csv",
+    "url": "IPM_worker_profile.csv",
       "@type": "schema:person",
     "tableSchema": {
       "columns": [{
         "name": "age_range",
-        "valueUrl": "http://example.org/IPM_worker_profile.csv{#q_0_age_answer}"
+        "valueUrl": "http://example.org/IPM_worker_profile.csv/age_range/{#q_0_age_answer}"
+      },{
+        "name" : "political_view",
+        "valueUrl" : "http://example.org/IPM_worker_profile.csv/political_view/{#q_0_political_views_answer}"
       }],
       "foreignKeys": [{
         "columnReference": "unit_id",

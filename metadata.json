@@ -1,0 +1,47 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "url": "IPM_assessment.csv",
+  "dc:title": "Crowdsourced Information Quality Assessments",
+  "dcat:keyword": ["information quality"],
+  "dc:publisher": {
+    "schema:name": "Eye of the Beholder",
+    "schema:url": {"@id": "http://example.org"}
+  },
+  "dc:license": {"@id": "http://opendefinition.org/licenses/cc-by/"},
+  "dc:modified": {"@value": "2022-07-29", "@type": "xsd:date"},
+  "tables": [{
+  "tableSchema": {
+    "columns": [{
+      "name": "Unit_ID",
+      "titles": ["unit_id", "Unit ID"],
+      "dc:description": "An identifier for the crowdsourcing unit.",
+      "datatype": "string",
+      "required": true
+    }, {
+      "name": "doc_overall-truthfulness_value",
+      "titles": "On Street",
+      "dc:description": "Overall truthfulness",
+      "datatype": "integer"
+    }],
+    "primaryKey": "unit_id",
+    "aboutUrl": "#unit_id-{unit_id}",
+  }},
+    {
+    "url": "http://example.org/IPM_worker_profile.csv",
+      "@type": "schema:person",
+    "tableSchema": {
+      "columns": [{
+        "name": "age_range",
+        "valueUrl": "http://example.org/IPM_worker_profile.csv{#q_0_age_answer}"
+      }],
+      "foreignKeys": [{
+        "columnReference": "unit_id",
+        "reference": {
+          "resource": "IPM_worker_profile.csv",
+          "columnReference": "unit_id"
+        }
+      }]
+      }
+      }]
+   }
+

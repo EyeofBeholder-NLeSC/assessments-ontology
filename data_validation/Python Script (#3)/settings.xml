@@ -6,7 +6,7 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="sourceCode" type="xstring" value="import pandas as pd%%00010import csvw%%00010%%00010url_metadata = flow_variables['url_metadata']%%00010c = csvw.CSVW(url_metadata, validate=True)%%00010%%00010output_table_1 = pd.DataFrame(c.t)%%00010%%00010"/>
+        <entry key="sourceCode" type="xstring" value="import pandas as pd%%00010import csvw%%00010%%00010url_metadata = flow_variables['url_metadata']%%00010c = csvw.CSVW(url_metadata, validate=True)%%00010%%00010output_table_1 = pd.DataFrame(c.tables[0])%%00010output_table_2 = pd.DataFrame(c.tables[1])%%00010%%00010"/>
         <entry key="rowLimit" type="xint" value="1000"/>
         <entry key="convertMissingToPython" type="xboolean" value="false"/>
         <entry key="convertMissingFromPython" type="xboolean" value="false"/>
@@ -37,6 +37,9 @@
             <config key="port_0">
                 <entry key="object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
             </config>
+            <config key="port_1">
+                <entry key="object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            </config>
         </config>
         <config key="Output image"/>
         <config key="Output object (pickled)"/>
@@ -49,12 +52,19 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 2, Cols: 5"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 2200, Cols: 3"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+        <config key="port_2">
+            <entry key="index" type="xint" value="2"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 200, Cols: 3"/>
+            <entry key="port_dir_location" type="xstring" value="port_2"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="d77c10a3-8869-49dc-b420-4381f05f2204"/>
+        <entry key="file_store_id" type="xstring" value="950e245f-f602-4dca-bb52-e4683843fc84"/>
     </config>
 </config>

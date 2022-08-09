@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg stroke-dasharray="none" shape-rendering="auto"
      xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;"
-     width="403" text-rendering="auto" fill-opacity="1"
+     width="463" text-rendering="auto" fill-opacity="1"
      contentScriptType="text/ecmascript" color-interpolation="auto"
      color-rendering="auto" preserveAspectRatio="xMidYMid meet" font-size="12"
      fill="black" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
@@ -15,22 +15,22 @@
     <g>
         <defs id="defs1">
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1">
-                <path d="M152 259 L404 259 L404 401 L152 401 L152 259 Z"/>
+                <path d="M-1 259 L251 259 L251 401 L-1 401 L-1 259 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2">
-                <path d="M162 269 L394 269 L394 346 L162 346 L162 269 Z"/>
+                <path d="M9 269 L241 269 L241 346 L9 346 L9 269 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3">
-                <path d="M162 329 L394 329 L394 346 L162 346 L162 329 Z"/>
+                <path d="M9 329 L241 329 L241 346 L9 346 L9 329 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4">
-                <path d="M32 78 L80 78 L80 95 L32 95 L32 78 Z"/>
+                <path d="M79 118 L127 118 L127 135 L79 135 L79 118 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5">
-                <path d="M192 158 L240 158 L240 175 L192 175 L192 158 Z"/>
+                <path d="M239 198 L287 198 L287 215 L239 215 L239 198 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath6">
-                <path d="M2 0 L105 0 L105 17 L2 17 L2 0 Z"/>
+                <path d="M49 40 L152 40 L152 57 L49 57 L49 40 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath7">
                 <path d="M-1 -1 L33 -1 L33 33 L-1 33 L-1 -1 Z"/>
@@ -42,65 +42,77 @@
                 <path d="M-1 -1 L33 -1 L33 13 L-1 13 L-1 -1 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath10">
-                <path d="M62 33 L105 33 L105 44 L62 44 L62 33 Z"/>
+                <path d="M109 73 L152 73 L152 84 L109 84 L109 73 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11">
-                <path d="M171 80 L256 80 L256 97 L171 97 L171 80 Z"/>
+                <path d="M218 120 L303 120 L303 137 L218 137 L218 120 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath12">
                 <path d="M-1 -3 L19 -3 L19 11 L-1 11 L-1 -3 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath13">
-                <path d="M176 94 L210 94 L210 105 L176 105 L176 94 Z"/>
+                <path d="M223 134 L257 134 L257 145 L223 145 L223 134 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath14">
-                <path d="M217 94 L251 94 L251 105 L217 105 L217 94 Z"/>
+                <path d="M269 143 L303 143 L303 154 L269 154 L269 143 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath15">
-                <path d="M222 113 L256 113 L256 124 L222 124 L222 113 Z"/>
+                <path d="M269 162 L303 162 L303 173 L269 173 L269 162 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath16">
-                <path d="M-1 -1 L1287 -1 L1287 678 L-1 678 L-1 -1 Z"/>
+                <path d="M336 0 L464 0 L464 17 L336 17 L336 0 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath17">
+                <path d="M336 33 L392 33 L392 44 L336 44 L336 33 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath18">
+                <path d="M348 200 L452 200 L452 217 L348 217 L348 200 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath19">
+                <path d="M348 233 L392 233 L392 244 L348 244 L348 233 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath20">
+                <path d="M-1 -1 L1015 -1 L1015 944 L-1 944 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g fill="white" font-family="&apos;Segoe UI&apos;"
            stroke-linejoin="round" stroke="white" stroke-width="0"
            stroke-miterlimit="0">
-            <rect x="153" y="260" clip-path="url(#clipPath1)" width="250"
+            <rect x="0" y="260" clip-path="url(#clipPath1)" width="250"
                   height="140" stroke="none"/>
-            <text x="163" y="281" clip-path="url(#clipPath2)" fill="black"
+            <text x="10" y="281" clip-path="url(#clipPath2)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Update the python executable in</text><text x="163"
+                  xml:space="preserve">Update the python executable in</text><text x="10"
                   y="296" clip-path="url(#clipPath2)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Preferences -&gt; Knime &gt; Python to point to</text><text x="163"
+                  xml:space="preserve">Preferences -&gt; Knime &gt; Python to point to</text><text x="10"
                   y="311" clip-path="url(#clipPath2)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">the eye-of-beholder environment. First</text><text x="163"
+                  xml:space="preserve">the eye-of-beholder environment. First</text><text x="10"
                   y="326" clip-path="url(#clipPath2)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">create this environment with:</text>
         </g><g stroke-miterlimit="0" stroke-width="0"
            font-family="&apos;Arial&apos;" font-weight="bold"
            stroke-linejoin="round">
-            <text xml:space="preserve" x="163" y="341"
+            <text xml:space="preserve" x="10" y="341"
                   clip-path="url(#clipPath3)" stroke="none">conda env create -f environment.yml</text>
         </g><g fill="rgb(255,216,0)" stroke-width="10"
            font-family="&apos;Segoe UI&apos;" stroke-linecap="butt"
            stroke="rgb(255,216,0)">
-            <rect x="158" y="265" clip-path="url(#clipPath1)" fill="none"
+            <rect x="5" y="265" clip-path="url(#clipPath1)" fill="none"
                   width="240" height="130"/>
-            <text x="33" y="90" clip-path="url(#clipPath4)" fill="black"
+            <text x="80" y="130" clip-path="url(#clipPath4)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 2</text><text x="193" y="170"
+                  xml:space="preserve">Node 2</text><text x="240" y="210"
                   clip-path="url(#clipPath5)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Node 3</text>
         </g><g stroke-width="10" font-weight="bold"
            font-family="&apos;Arial&apos;" stroke-linecap="butt">
-            <text xml:space="preserve" x="3" y="12" clip-path="url(#clipPath6)"
+            <text xml:space="preserve" x="50" y="52" clip-path="url(#clipPath6)"
                   stroke="none">Variable Creator</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   transform="matrix(1,0,0,1,37,23)" width="32"
+                   transform="matrix(1,0,0,1,84,63)" width="32"
                    xlink:show="embed" xlink:type="simple"
                    clip-path="url(#clipPath7)" preserveAspectRatio="none"
                    font-weight="normal" height="32" x="0" y="0"
@@ -109,7 +121,7 @@ QAwDQ8QGbMIiL4b4lWiY4hcMBClPRZ00Z8m1L07l5T73TUQud3Or5Mjcw93XCD8k
 VzozNS6vUtPE2n+bqAz/fgEAAAAAAAAAAAAAAAAAAGCF+aaxUqs03nXc51CsmOcP
 A/INJ1T1pwYAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   transform="matrix(1,0,0,1,45,31)" width="16"
+                   transform="matrix(1,0,0,1,92,71)" width="16"
                    xlink:show="embed" xlink:type="simple"
                    clip-path="url(#clipPath8)" preserveAspectRatio="none"
                    font-weight="normal" height="16" x="0" y="0"
@@ -119,7 +131,7 @@ ASD+AMTxSC5ygIo/IMYAEFgIxAJQjQ5QsQXEegHZGw7EOh8EWJDYMOfaQwNzIyHn
 o7sA5g0HqFfWo8n9h2K8BhxAYm8kJiGxYDGAkZSUSEjxf0L6mRjoCIgKRJIBxQYA
 AOt/HB35C1JuAAAAAElFTkSuQmCC" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   transform="matrix(1,0,0,1,37,62)" width="32"
+                   transform="matrix(1,0,0,1,84,102)" width="32"
                    xlink:show="embed" xlink:type="simple"
                    clip-path="url(#clipPath9)" preserveAspectRatio="none"
                    font-weight="normal" height="12" x="0" y="0" font-size="4"
@@ -139,11 +151,11 @@ YII=" xlink:actuate="onLoad"/>
         <g stroke-linecap="butt" fill="rgb(255,75,75)"
            text-rendering="optimizeLegibility" font-family="&apos;Arial&apos;"
            stroke="rgb(255,75,75)" stroke-width="10">
-            <circle r="4" clip-path="url(#clipPath10)" cx="73" cy="38"
+            <circle r="4" clip-path="url(#clipPath10)" cx="120" cy="78"
                     stroke="none"/>
-            <text x="172" y="92" clip-path="url(#clipPath11)" fill="black"
+            <text x="219" y="132" clip-path="url(#clipPath11)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">Python Script</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   stroke="black" transform="matrix(1,0,0,1,197,103)" width="32"
+                   stroke="black" transform="matrix(1,0,0,1,244,143)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath7)" preserveAspectRatio="none"
                    height="32" x="0" y="0"
@@ -152,7 +164,7 @@ MAwEjcUGDBYxRKZiiqzCQAZHcqio7eZe+vrP7+q355ZDRC53c6vkyNzD3fcIPyVX
 ujI1Lq9S08Taf5uoDP9+AQAAAAAAAAAAAAAAAAAAYIX5prFSqzTmOu5rKFbM8xel
 UA0xDHJAMgAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
-                   transform="matrix(1,0,0,1,205,111)" width="16"
+                   transform="matrix(1,0,0,1,252,151)" width="16"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath8)" preserveAspectRatio="none"
                    height="16" x="0" y="0"
@@ -171,7 +183,7 @@ AE3422aUdfJiG9jRImT9qBbOfCU6iljyj2wC35M1HLoL3fZuUbDgs+YBS5OI2vjq
 0id6Px4kiJKGZh85ZLjMbTsEHAHGgJEkZSfpupVc6bj+Aklqsca5xxRcAAAAAElF
 TkSuQmCC" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
-                   transform="matrix(1,0,0,1,197,125)" width="18"
+                   transform="matrix(1,0,0,1,244,165)" width="18"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath12)" preserveAspectRatio="none"
                    height="10" x="0" y="0"
@@ -181,7 +193,7 @@ AvmnmJiY0nh5eTd8/PjxNVCdG1DdAaB4tLCw8IJ37959A+lnghkEVPwfyoTRDH/+
 /PkHYzMyMmLI4wRqampKQCcbontNXl5eE1kM5H11dXXFERLjALYoKucmBwOLAAAA
 AElFTkSuQmCC" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
-                   transform="matrix(1,0,0,1,197,142)" width="32"
+                   transform="matrix(1,0,0,1,244,182)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath9)" preserveAspectRatio="none"
                    height="12" x="0" y="0" font-size="4"
@@ -197,33 +209,111 @@ KuxVUL4R85E7vDonBEVCorKA/wUtYJym4Kxa9eD6Gnme64R7C8rXoC0YcXU0iaCw
 fxjg6Ph4ahnKLJfZfjf0p5bh1tz3N8tQVYASEKq/gDGGSBDKPg2SKAhkH015W4qN
 2W9F+clPiMhitEspF8qZnWcR7wJJbBADlNDKr/gRdwHUkatixdAAAAAASUVORK5C
 YII=" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath13)" cx="197" cy="99"
+            <circle r="4" clip-path="url(#clipPath13)" cx="244" cy="139"
                     stroke="none"/>
-            <circle r="4" clip-path="url(#clipPath14)" cx="228" cy="99"
-                    stroke="none"/>
+            <polygon fill="black" clip-path="url(#clipPath14)"
+                     points=" 276 144 285 148 276 153" stroke="none"/>
             <polygon fill="black" clip-path="url(#clipPath15)"
-                     points=" 229 114 238 118 229 123" stroke="none"/>
-            <rect x="153" y="260" clip-path="url(#clipPath1)" fill="white"
+                     points=" 276 163 285 167 276 172" stroke="none"/>
+            <text x="337" y="12" clip-path="url(#clipPath16)" fill="black"
+                  stroke="none" font-weight="bold" xml:space="preserve">Assesment analysis</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
+                   stroke="black" transform="matrix(1,0,0,1,384,23)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath7)" preserveAspectRatio="none"
+                   height="32" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
+MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
+0pWpcXmVmibW/ttEZfj3CwAAAAAAAAAAAAAAAAAAACvMN42VWqXxruO+hmLFPH8A
+MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+                   transform="matrix(1,0,0,1,392,31)" width="16"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath8)" preserveAspectRatio="none"
+                   height="16" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
+AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
+W3vwuwBkEzIQOS7CIMotCudz/OSAq2EipBmrKiYsYcCYDtQoCGQEQxUA2f9nQvzJ
+e4GX4dGHRwysTKwMv//9ZvjB9oMBFvgIL4A0xwMxOxD/BOKFCFu+fPvCcPDeQaC5
+TAz/gPDHjx8IF8NZ5UDcgeTMFqALaghHMRMDhYAF5hfGCqBjriN54QupCek91N8g
+N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+                   transform="matrix(1,0,0,1,384,62)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath9)" preserveAspectRatio="none"
+                   height="12" x="0" y="0" font-size="4"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAABuklEQVR42sVUy07C
+UBA9LdW2PigEwY2JMaCfoVv9C7/Aj/FnXLHQf2AhlLhxpUJ5WNsSKN5zpTeFVgwu
+9CSTtHceZ+7cmdGazeY1gFsh+/hbjIXcGL8nn0PHVH7FYBht0wDkvDXS5Lquw7Zt
+OMV9mKaJ4WgE/91HNJkseZ4U73B08ACjHMv/qafj+e0cT6OrJTtzexu7e7siXhFR
+FIl4YwRBgDiOVRJG8qVpGkolB43GqQpQrR3iI/iA2+4gFAES8uP6PfSypey2HODY
+uQe6UElY4gKNs1Ps2DvK7kiI63bgeQPM5/OvSydKy7JQrzcydWKASqWiys6bp8lV
+9cQZdbQh6JMmT0AOcik/VS6RMauQh2qtikKhIN88KXseqKMNbemTB3KQK5PAf0El
+wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
+x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
+jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
+I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
+            <polygon fill="black" clip-path="url(#clipPath17)"
+                     points=" 375 34 384 38 375 43" stroke="none"/>
+            <text x="349" y="212" clip-path="url(#clipPath18)" fill="black"
+                  stroke="none" font-weight="bold" xml:space="preserve">Worker analysis</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
+                   stroke="black" transform="matrix(1,0,0,1,384,223)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath7)" preserveAspectRatio="none"
+                   height="32" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
+MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
+0pWpcXmVmibW/ttEZfj3CwAAAAAAAAAAAAAAAAAAACvMN42VWqXxruO+hmLFPH8A
+MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+                   transform="matrix(1,0,0,1,392,231)" width="16"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath8)" preserveAspectRatio="none"
+                   height="16" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
+AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
+W3vwuwBkEzIQOS7CIMotCudz/OSAq2EipBmrKiYsYcCYDtQoCGQEQxUA2f9nQvzJ
+e4GX4dGHRwysTKwMv//9ZvjB9oMBFvgIL4A0xwMxOxD/BOKFCFu+fPvCcPDeQaC5
+TAz/gPDHjx8IF8NZ5UDcgeTMFqALaghHMRMDhYAF5hfGCqBjriN54QupCek91N8g
+N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+                   transform="matrix(1,0,0,1,384,262)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath9)" preserveAspectRatio="none"
+                   height="12" x="0" y="0" font-size="4"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAABuklEQVR42sVUy07C
+UBA9LdW2PigEwY2JMaCfoVv9C7/Aj/FnXLHQf2AhlLhxpUJ5WNsSKN5zpTeFVgwu
+9CSTtHceZ+7cmdGazeY1gFsh+/hbjIXcGL8nn0PHVH7FYBht0wDkvDXS5Lquw7Zt
+OMV9mKaJ4WgE/91HNJkseZ4U73B08ACjHMv/qafj+e0cT6OrJTtzexu7e7siXhFR
+FIl4YwRBgDiOVRJG8qVpGkolB43GqQpQrR3iI/iA2+4gFAES8uP6PfSypey2HODY
+uQe6UElY4gKNs1Ps2DvK7kiI63bgeQPM5/OvSydKy7JQrzcydWKASqWiys6bp8lV
+9cQZdbQh6JMmT0AOcik/VS6RMauQh2qtikKhIN88KXseqKMNbemTB3KQK5PAf0El
+wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
+x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
+jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
+I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
+            <polygon fill="black" clip-path="url(#clipPath19)"
+                     points=" 375 234 384 238 375 243" stroke="none"/>
+            <rect x="0" y="260" clip-path="url(#clipPath1)" fill="white"
                   width="250" height="140" stroke="none"/>
-            <text x="163" y="281" clip-path="url(#clipPath2)" fill="black"
-                  stroke="none" xml:space="preserve">Update the python executable in</text><text x="163"
+            <text x="10" y="281" clip-path="url(#clipPath2)" fill="black"
+                  stroke="none" xml:space="preserve">Update the python executable in</text><text x="10"
                   y="296" clip-path="url(#clipPath2)" fill="black" stroke="none"
-                  xml:space="preserve">Preferences -&gt; Knime &gt; Python to point to</text><text x="163"
+                  xml:space="preserve">Preferences -&gt; Knime &gt; Python to point to</text><text x="10"
                   y="311" clip-path="url(#clipPath2)" fill="black" stroke="none"
-                  xml:space="preserve">the eye-of-beholder environment. First</text><text x="163"
+                  xml:space="preserve">the eye-of-beholder environment. First</text><text x="10"
                   y="326" clip-path="url(#clipPath2)" fill="black" stroke="none"
-                  xml:space="preserve">create this environment with:</text><text x="163"
+                  xml:space="preserve">create this environment with:</text><text x="10"
                   y="341" clip-path="url(#clipPath3)" fill="black" stroke="none"
-                  font-weight="bold" xml:space="preserve">conda env create -f environment.yml</text><rect x="158"
+                  font-weight="bold" xml:space="preserve">conda env create -f environment.yml</text><rect x="5"
                   y="265" clip-path="url(#clipPath1)" fill="none" width="240"
                   height="130" stroke="rgb(255,216,0)"/>
-            <text x="33" y="90" clip-path="url(#clipPath4)" fill="black"
-                  stroke="none" xml:space="preserve">Node 2</text><text x="193"
-                  y="170" clip-path="url(#clipPath5)" fill="black" stroke="none"
-                  xml:space="preserve">Node 3</text><text x="3" y="12"
+            <text x="80" y="130" clip-path="url(#clipPath4)" fill="black"
+                  stroke="none" xml:space="preserve">Node 2</text><text x="240"
+                  y="210" clip-path="url(#clipPath5)" fill="black" stroke="none"
+                  xml:space="preserve">Node 3</text><text x="50" y="52"
                   clip-path="url(#clipPath6)" fill="black" stroke="none"
                   font-weight="bold" xml:space="preserve">Variable Creator</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   stroke="black" transform="matrix(1,0,0,1,37,23)" width="32"
+                   stroke="black" transform="matrix(1,0,0,1,84,63)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath7)" preserveAspectRatio="none"
                    height="32" x="0" y="0"
@@ -232,7 +322,7 @@ QAwDQ8QGbMIiL4b4lWiY4hcMBClPRZ00Z8m1L07l5T73TUQud3Or5Mjcw93XCD8k
 VzozNS6vUtPE2n+bqAz/fgEAAAAAAAAAAAAAAAAAAGCF+aaxUqs03nXc51CsmOcP
 A/INJ1T1pwYAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
-                   transform="matrix(1,0,0,1,45,31)" width="16"
+                   transform="matrix(1,0,0,1,92,71)" width="16"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath8)" preserveAspectRatio="none"
                    height="16" x="0" y="0"
@@ -242,7 +332,7 @@ ASD+AMTxSC5ygIo/IMYAEFgIxAJQjQ5QsQXEegHZGw7EOh8EWJDYMOfaQwNzIyHn
 o7sA5g0HqFfWo8n9h2K8BhxAYm8kJiGxYDGAkZSUSEjxf0L6mRjoCIgKRJIBxQYA
 AOt/HB35C1JuAAAAAElFTkSuQmCC" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
-                   transform="matrix(1,0,0,1,37,62)" width="32"
+                   transform="matrix(1,0,0,1,84,102)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath9)" preserveAspectRatio="none"
                    height="12" x="0" y="0" font-size="4"
@@ -258,11 +348,11 @@ KuxVUL4R85E7vDonBEVCorKA/wUtYJym4Kxa9eD6Gnme64R7C8rXoC0YcXU0iaCw
 fxjg6Ph4ahnKLJfZfjf0p5bh1tz3N8tQVYASEKq/gDGGSBDKPg2SKAhkH015W4qN
 2W9F+clPiMhitEspF8qZnWcR7wJJbBADlNDKr/gRdwHUkatixdAAAAAASUVORK5C
 YII=" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath10)" cx="73" cy="38"
+            <circle r="4" clip-path="url(#clipPath10)" cx="120" cy="78"
                     stroke="none"/>
-            <text x="172" y="92" clip-path="url(#clipPath11)" fill="black"
+            <text x="219" y="132" clip-path="url(#clipPath11)" fill="black"
                   stroke="none" font-weight="bold" xml:space="preserve">Python Script</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
-                   stroke="black" transform="matrix(1,0,0,1,197,103)" width="32"
+                   stroke="black" transform="matrix(1,0,0,1,244,143)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath7)" preserveAspectRatio="none"
                    height="32" x="0" y="0"
@@ -271,7 +361,7 @@ MAwEjcUGDBYxRKZiiqzCQAZHcqio7eZe+vrP7+q355ZDRC53c6vkyNzD3fcIPyVX
 ujI1Lq9S08Taf5uoDP9+AQAAAAAAAAAAAAAAAAAAYIX5prFSqzTmOu5rKFbM8xel
 UA0xDHJAMgAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
-                   transform="matrix(1,0,0,1,205,111)" width="16"
+                   transform="matrix(1,0,0,1,252,151)" width="16"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath8)" preserveAspectRatio="none"
                    height="16" x="0" y="0"
@@ -290,7 +380,7 @@ AE3422aUdfJiG9jRImT9qBbOfCU6iljyj2wC35M1HLoL3fZuUbDgs+YBS5OI2vjq
 0id6Px4kiJKGZh85ZLjMbTsEHAHGgJEkZSfpupVc6bj+Aklqsca5xxRcAAAAAElF
 TkSuQmCC" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
-                   transform="matrix(1,0,0,1,197,125)" width="18"
+                   transform="matrix(1,0,0,1,244,165)" width="18"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath12)" preserveAspectRatio="none"
                    height="10" x="0" y="0"
@@ -300,7 +390,7 @@ AvmnmJiY0nh5eTd8/PjxNVCdG1DdAaB4tLCw8IJ37959A+lnghkEVPwfyoTRDH/+
 /PkHYzMyMmLI4wRqampKQCcbontNXl5eE1kM5H11dXXFERLjALYoKucmBwOLAAAA
 AElFTkSuQmCC" xlink:actuate="onLoad"/>
             <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
-                   transform="matrix(1,0,0,1,197,142)" width="32"
+                   transform="matrix(1,0,0,1,244,182)" width="32"
                    xlink:show="embed" xlink:type="simple" fill="black"
                    clip-path="url(#clipPath9)" preserveAspectRatio="none"
                    height="12" x="0" y="0" font-size="4"
@@ -316,15 +406,105 @@ KuxVUL4R85E7vDonBEVCorKA/wUtYJym4Kxa9eD6Gnme64R7C8rXoC0YcXU0iaCw
 fxjg6Ph4ahnKLJfZfjf0p5bh1tz3N8tQVYASEKq/gDGGSBDKPg2SKAhkH015W4qN
 2W9F+clPiMhitEspF8qZnWcR7wJJbBADlNDKr/gRdwHUkatixdAAAAAASUVORK5C
 YII=" xlink:actuate="onLoad"/>
-            <circle r="4" clip-path="url(#clipPath13)" cx="197" cy="99"
+            <circle r="4" clip-path="url(#clipPath13)" cx="244" cy="139"
                     stroke="none"/>
-            <circle r="4" clip-path="url(#clipPath14)" cx="228" cy="99"
-                    stroke="none"/>
+            <polygon fill="black" clip-path="url(#clipPath14)"
+                     points=" 276 144 285 148 276 153" stroke="none"/>
             <polygon fill="black" clip-path="url(#clipPath15)"
-                     points=" 229 114 238 118 229 123" stroke="none"/>
-            <path fill="none" stroke-width="2"
-                  d="M78 38 C80 38 84 38 86 38 C120 38 150 99 184 99 C186 99 190 99 192 99"
-                  clip-path="url(#clipPath16)" fill-rule="evenodd"/>
+                     points=" 276 163 285 167 276 172" stroke="none"/>
+            <text x="337" y="12" clip-path="url(#clipPath16)" fill="black"
+                  stroke="none" font-weight="bold" xml:space="preserve">Assesment analysis</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
+                   stroke="black" transform="matrix(1,0,0,1,384,23)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath7)" preserveAspectRatio="none"
+                   height="32" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
+MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
+0pWpcXmVmibW/ttEZfj3CwAAAAAAAAAAAAAAAAAAACvMN42VWqXxruO+hmLFPH8A
+MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+                   transform="matrix(1,0,0,1,392,31)" width="16"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath8)" preserveAspectRatio="none"
+                   height="16" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
+AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
+W3vwuwBkEzIQOS7CIMotCudz/OSAq2EipBmrKiYsYcCYDtQoCGQEQxUA2f9nQvzJ
+e4GX4dGHRwysTKwMv//9ZvjB9oMBFvgIL4A0xwMxOxD/BOKFCFu+fPvCcPDeQaC5
+TAz/gPDHjx8IF8NZ5UDcgeTMFqALaghHMRMDhYAF5hfGCqBjriN54QupCek91N8g
+N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+                   transform="matrix(1,0,0,1,384,62)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath9)" preserveAspectRatio="none"
+                   height="12" x="0" y="0" font-size="4"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAABuklEQVR42sVUy07C
+UBA9LdW2PigEwY2JMaCfoVv9C7/Aj/FnXLHQf2AhlLhxpUJ5WNsSKN5zpTeFVgwu
+9CSTtHceZ+7cmdGazeY1gFsh+/hbjIXcGL8nn0PHVH7FYBht0wDkvDXS5Lquw7Zt
+OMV9mKaJ4WgE/91HNJkseZ4U73B08ACjHMv/qafj+e0cT6OrJTtzexu7e7siXhFR
+FIl4YwRBgDiOVRJG8qVpGkolB43GqQpQrR3iI/iA2+4gFAES8uP6PfSypey2HODY
+uQe6UElY4gKNs1Ps2DvK7kiI63bgeQPM5/OvSydKy7JQrzcydWKASqWiys6bp8lV
+9cQZdbQh6JMmT0AOcik/VS6RMauQh2qtikKhIN88KXseqKMNbemTB3KQK5PAf0El
+wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
+x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
+jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
+I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
+            <polygon fill="black" clip-path="url(#clipPath17)"
+                     points=" 375 34 384 38 375 43" stroke="none"/>
+            <text x="349" y="212" clip-path="url(#clipPath18)" fill="black"
+                  stroke="none" font-weight="bold" xml:space="preserve">Worker analysis</text><image xmlns:xlink="http://www.w3.org/1999/xlink"
+                   stroke="black" transform="matrix(1,0,0,1,384,223)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath7)" preserveAspectRatio="none"
+                   height="32" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAa0lEQVR42u2XsQ2A
+MAwEjcUGDBYxRKZiigxARrMwkkNFbTf30td/fle/3XMeInK5m1slR+Ye7r5H+Cm5
+0pWpcXmVmibW/ttEZfj3CwAAAAAAAAAAAAAAAAAAACvMN42VWqXxruO+hmLFPH8A
+MOkNmTZYl7gAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+                   transform="matrix(1,0,0,1,392,231)" width="16"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath8)" preserveAspectRatio="none"
+                   height="16" x="0" y="0"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3UlEQVR42mP8//8/
+AyWAhRhFjCcZGfjY+RgYGRkZQBZ++vmJ4b/5f+IN4GHjYXBSdWJgY2Zj+PX3F8Oe
+W3vwuwBkEzIQOS7CIMotCudz/OSAq2EipBmrKiYsYcCYDtQoCGQEQxUA2f9nQvzJ
+e4GX4dGHRwysTKwMv//9ZvjB9oMBFvgIL4A0xwMxOxD/BOKFCFu+fPvCcPDeQaC5
+TAz/gPDHjx8IF8NZ5UDcgeTMFqALaghHMRMDhYAF5hfGCqBjriN54QupCek91N8g
+N/2D8kkxABbipAKKw2AYGAAArXBAE6T1kEAAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+            <image xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+                   transform="matrix(1,0,0,1,384,262)" width="32"
+                   xlink:show="embed" xlink:type="simple" fill="black"
+                   clip-path="url(#clipPath9)" preserveAspectRatio="none"
+                   height="12" x="0" y="0" font-size="4"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAABuklEQVR42sVUy07C
+UBA9LdW2PigEwY2JMaCfoVv9C7/Aj/FnXLHQf2AhlLhxpUJ5WNsSKN5zpTeFVgwu
+9CSTtHceZ+7cmdGazeY1gFsh+/hbjIXcGL8nn0PHVH7FYBht0wDkvDXS5Lquw7Zt
+OMV9mKaJ4WgE/91HNJkseZ4U73B08ACjHMv/qafj+e0cT6OrJTtzexu7e7siXhFR
+FIl4YwRBgDiOVRJG8qVpGkolB43GqQpQrR3iI/iA2+4gFAES8uP6PfSypey2HODY
+uQe6UElY4gKNs1Ps2DvK7kiI63bgeQPM5/OvSydKy7JQrzcydWKASqWiys6bp8lV
+9cQZdbQh6JMmT0AOcik/VS6RMauQh2qtikKhIN88KXseqKMNbemTB3KQK5PAf0El
+wCZJ3mUVry+vmM1mstvZcN+BOtrQlj65syM4okU/LSUQhiG6XTfjwCbs9XpJAWW3
+x16YseMZdck40oe+qyAHudSzpTMbDIZotVprx1B2uej27BheLI0hp6bz2M4dw3Sl
+jcVGkruA8+n7vpR1INHT6PLHRcTEo/4E/b737TbkE9wsktgQmiDekvKLLahW8Sd3
+I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
+            <polygon fill="black" clip-path="url(#clipPath19)"
+                     points=" 375 234 384 238 375 243" stroke="none"/>
+        </g>
+        <g stroke-linecap="butt" fill="rgb(150,150,150)"
+           text-rendering="optimizeLegibility"
+           font-family="&apos;Segoe UI&apos;" stroke="rgb(150,150,150)"
+           stroke-width="2">
+            <path fill="none"
+                  d="M285 148 C287 148 291 148 293 148 C332 148 327 38 366 38 C368 38 372 38 374 38"
+                  clip-path="url(#clipPath20)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M125 78 C127 78 131 78 133 78 C167 78 197 139 231 139 C233 139 237 139 239 139"
+                  clip-path="url(#clipPath20)" fill-rule="evenodd"
+                  stroke="rgb(255,75,75)"/>
+            <path clip-path="url(#clipPath20)" fill="none" fill-rule="evenodd"
+                  d="M285 167 C287 167 291 167 293 167 C323 167 336 238 366 238 C368 238 372 238 374 238"
+                  stroke="rgb(75,75,75)" stroke-width="3"/>
         </g>
     </g>
 </svg>

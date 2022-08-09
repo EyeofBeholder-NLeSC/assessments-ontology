@@ -6,13 +6,13 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="url_metadata"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="https://w3c.github.io/csvw/tests/test011/tree-ops.csv-metadata.json"/>
+            <entry key="value" type="xstring" value="../metadata.json"/>
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="url_metadata"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="https://w3c.github.io/csvw/tests/test011/tree-ops.csv-metadata.json"/>
+            <entry key="value" type="xstring" value="../metadata.json"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -42,7 +42,7 @@
             </config>
             <config key="values">
                 <entry key="array-size" type="xint" value="1"/>
-                <entry key="0" type="xstring" value="https://w3c.github.io/csvw/tests/test011/tree-ops.csv-metadata.json"/>
+                <entry key="0" type="xstring" value="../metadata.json"/>
             </config>
         </config>
     </config>
@@ -75,6 +75,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="14c8985b-994e-4eeb-941f-bbd3fb76dd68"/>
+        <entry key="file_store_id" type="xstring" value="83611147-c3c4-4192-9e26-78e0616ea30a"/>
     </config>
 </config>

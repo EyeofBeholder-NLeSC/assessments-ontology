@@ -6,13 +6,13 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="column-selection"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="doc_correctness_value"/>
+            <entry key="value" type="xstring" value="doc_overall-truthfulness_value"/>
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="column-selection"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="doc_correctness_value"/>
+            <entry key="value" type="xstring" value="doc_overall-truthfulness_value"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -78,6 +78,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="44b12f88-7ef8-4a5d-97b4-07959a0e2519"/>
+        <entry key="file_store_id" type="xstring" value="70bdbad5-186c-4e41-8cca-1c8977781da7"/>
     </config>
 </config>

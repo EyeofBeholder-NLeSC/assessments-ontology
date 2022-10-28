@@ -10,11 +10,12 @@
   "dc:license": {"@id": "http://opendefinition.org/licenses/cc-by/"},
   "dc:modified": {"@value": "2022-07-29", "@type": "xsd:date"},
   "tables": [{
+    "url": "IPM_assessment.csv",
   "tableSchema": {
     "columns": [{
-      "name": "Unit_ID",
-      "titles": ["unit_id", "Unit ID"],
-      "dc:description": "An identifier for the crowdsourcing unit.",
+      "name": "unit_id",
+      "titles": ["unit_id", "Unit_ID"],
+      "dc:description": "An identifier for the crowdsourcing worker.",
       "datatype": "string",
       "required": true
     }, {
@@ -28,12 +29,16 @@
       "dc:description": "Correctness",
       "datatype": "integer"
     }],
-    "primaryKey": "unit_id",
-    "aboutUrl": "#unit_id-{unit_id}"
+    "foreignKeys": [{
+      "columnReference": "unit_id",
+      "reference": {
+        "resource": "IPM_worker_profile.csv",
+        "columnReference": "unit_id"
+      }
+    }]
   }},
     {
     "url": "IPM_worker_profile.csv",
-      "@type": "schema:person",
     "tableSchema": {
       "columns": [{
         "name": "age_range",
@@ -41,15 +46,17 @@
       },{
         "name" : "political_view",
         "valueUrl" : "http://example.org/IPM_worker_profile.csv/political_view/{#q_0_political_views_answer}"
+      },
+      {
+        "name": "unit_id",
+        "titles": ["unit_id"],
+        "dc:description": "An identifier for the crowdsourcing worker.",
+        "datatype": "string",
+        "required": true
       }],
-      "foreignKeys": [{
-        "columnReference": "unit_id",
-        "reference": {
-          "resource": "IPM_worker_profile.csv",
-          "columnReference": "unit_id"
-        }
-      }]
+      "primaryKey": "unit_id"
       }
-      }]
+      }],
+      "aboutUrl": "#unit_id-{unit_id}"
    }
 
